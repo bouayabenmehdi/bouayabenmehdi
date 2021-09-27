@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bouayabenmehdi
+- 👋 Hi, I’m Mehdi Bouayaben
 - 👀 I’m interested in Learning blockchain and smart contracts development
 - 🌱 I’m currently learn Blockchain
 - 💞️ I’m looking to collaborate on a real world project
