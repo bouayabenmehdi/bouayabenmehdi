@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mehdi Bouayaben
-- 👀 I’m interested in Learning software engineering 
 - 🌱 I’m currently learn software engineering
-- 💞️ I’m looking to collaborate on a real world project
 - 📫 How to reach me : bouayabenemehdi@gmail.com
 
 <!---
